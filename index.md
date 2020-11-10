@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my new site
 
 You can use the [editor on GitHub](https://github.com/alexandershedden/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,12 +14,16 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+## Header 2 again
 
 - Bulleted
 - List
+- more items
+- yet more items
 
 1. Numbered
 2. List
+3. Item number three
 
 **Bold** and _Italic_ and `Code` text
 
