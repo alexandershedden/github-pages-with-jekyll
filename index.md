@@ -1,12 +1,14 @@
 ## Welcome to my new site
 
-### Dont' expect to see anything fascinating here yet!
+### Don't expect to see anything fascinating here yet!
+
+[My Main Company site can be found here - it too, is a work in progress](http://aicontact.com)
 
 I'll use the [editor on GitHub](https://github.com/alexandershedden/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[My Main Company site can be found here - it too, is a work in progress](http://aicontact.com) and ![Here is a picture of a puppy - only joking!](src)
+
 ```
 
 ### Markdown
