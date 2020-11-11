@@ -6,6 +6,9 @@ I'll use the [editor on GitHub](https://github.com/alexandershedden/github-pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[My Main Company site can be found here - it too, is a work in progress](http://aicontact.com) and ![Here is a picture of a puppy - only joking!](src)
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
